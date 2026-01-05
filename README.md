@@ -1,6 +1,4 @@
-Customer-Behavior-Analysis-Python-SQL-Power-BI-demonstration-/
- ├── README.md
- └── Project Overview.png
+![Project Overview](Project%20Overview.png)
 
 
 # Customer-Behavior-Analysis-Python-SQL-Power-BI-demonstration-
